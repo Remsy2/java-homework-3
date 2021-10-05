@@ -17,6 +17,7 @@ public class Main {
     }
 }
 
+
 enum AviarySize {
     MICRO(0),
     SMALL(1),
